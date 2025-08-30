@@ -8,7 +8,7 @@ function App() {
           </h1>
           <p className="text-lg text-gray-300">
             This project is a hands-on demo showing how to automate build and
-            deployment for a React app using Vite, TailwindCSS, GitHub Actions,
+            deployment for a React app GitHub Actions,
             and GitHub Pages.
           </p>
         </header>
