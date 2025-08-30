@@ -18,10 +18,6 @@ function App() {
               Project Highlights
             </h2>
             <ul className="list-disc pl-6 text-gray-200 mb-4">
-              <li>
-                Vite + React for fast development with TailwindCSS v3+ for
-                modern styling
-              </li>
               <li>Automatic build & deploy with GitHub Actions</li>
               <li>Hosted for free on GitHub Pages</li>
             </ul>
