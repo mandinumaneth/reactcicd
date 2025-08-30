@@ -32,3 +32,5 @@ jobs:
           publish_dir: ./dist  # Vite's build output folder
           user_name: 'github-actions'
           user_email: 'github-actions@github.com'
+
+          #all done
