@@ -4,7 +4,7 @@ function App() {
       <div className="max-w-2xl mx-auto py-16 px-6">
         <header className="mb-10 text-center">
           <h1 className="text-5xl font-extrabold text-green-400 drop-shadow-lg mb-4">
-            React CI/CD Demo: Vite, TailwindCSS & GitHub Actions
+            React CI/CD Demo: GitHub Actions
           </h1>
           <p className="text-lg text-gray-300">
             This project is a hands-on demo showing how to automate build and
